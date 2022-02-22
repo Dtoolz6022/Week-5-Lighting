@@ -578,27 +578,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.29240227
+      value: 0.52240586
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.29240227
+      value: 0.52240586
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.29240227
+      value: 0.52240586
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.45
+      value: 7.45
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.49
+      value: -1.67
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.83
+      value: 6.89
       objectReference: {fileID: 0}
     - target: {fileID: 6586793372937890489, guid: a8467227c6ada1043ab41522196b33a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -921,7 +921,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1028345350}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.72, y: -1.5, z: -9.56}
+  m_LocalPosition: {x: 3.72, y: -1.33, z: -7.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 318005276}
@@ -943,5 +943,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 8.5341625, y: 10.612413, z: 11.592106}
-  m_Center: {x: -4.9796276, y: 1.7925701, z: -3.339521}
+  m_Size: {x: 5.2197595, y: 9.820943, z: 9.252405}
+  m_Center: {x: -2.3998747, y: 3.3687036, z: -0.027876496}
